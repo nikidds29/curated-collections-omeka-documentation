@@ -1,0 +1,24 @@
+# Site-wide settings for the Curated Collections Omeka Documentation.
+# Theme docs: https://just-the-docs.com
+
+title: Curated Collections Omeka Documentation
+description: A help guide to building, describing and publishing research collections with Omeka-S.
+
+# IMPORTANT: this must match your repo name exactly, with a leading slash.
+# If you rename the repo, update this line to match or the site's links/styling will break.
+baseurl: "/curated-collections-omeka-documentation"
+url: "https://nikidds29.github.io"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+color_scheme: light
+nav_sort: case_insensitive
+
+# Keep the repository notes off the live site.
+exclude:
+  - README.md
+
+footer_content: "Curated Collections Omeka Documentation: a help guide for Omeka-S users."
