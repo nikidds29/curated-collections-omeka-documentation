@@ -2,6 +2,7 @@
 
 A help guide to building, describing and publishing research collections with [Omeka-S](https://omeka.org/s/). It is written for users of the ARDC Curated Collections platform, but most of the guidance applies to any Omeka-S installation. Where something is specific to ARDC Curated Collections, the guide says so.
 
+**Live Guide:** https://nikidds29.github.io/curated-collections-omeka-documentation/
 > 🚧 **This guide is in development.** An introduction and further sections are coming soon.
 
 ## Contents
