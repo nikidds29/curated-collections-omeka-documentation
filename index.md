@@ -26,5 +26,5 @@ A help guide to building, describing and publishing research collections with [O
 
 ## Downloads
 
-- [Making your data FAIR (PDF)](downloads/FAIR-Data-Access.pdf)
-- [Pre-publication checklist (PDF)](downloads/Pre-Publication-Checklist.pdf)
+- [Making your data FAIR (PDF)](downloads/CC-FAIR-Data-Access.pdf)
+- [Pre-publication checklist (PDF)](downloads/CC-Pre-Publication-Checklist.pdf)
