@@ -8,7 +8,7 @@ nav_order: 4
 
 *Future-proof your data!*
 
-> 📄 **[Download this guide as a PDF](../downloads/FAIR-Data-Access.pdf)**
+> 📄 **[Download this guide as a PDF](../downloads/CC_FAIR-Data-Access.pdf)**
 
 Making your data accessible and usable in the future means making your data FAIR. Adopting the FAIR principles makes it easier for others to find and reuse your data, increasing potential collaboration opportunities and ensuring acknowledgement of your data in other publications.
 
