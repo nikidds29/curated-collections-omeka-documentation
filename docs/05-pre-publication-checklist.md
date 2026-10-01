@@ -8,7 +8,7 @@ nav_order: 5
 
 Use this checklist before making your Omeka-S collection public.
 
-> 📄 **[Download the printable checklist (PDF)](../downloads/CC_Pre-Publication-Checklist.pdf)**
+> 📄 **[Download the printable checklist (PDF)](../downloads/CC-Pre-Publication-Checklist.pdf)**
 
 ## 1. Rights and Permissions
 
