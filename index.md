@@ -12,7 +12,7 @@ A help guide to building, describing and publishing research collections with [O
 
 ## Introduction
 
-*Coming soon.*
+This guide has been developed by the Curated Collections team at the Sydney Informatics Hub. It is intended to provide guidance for researchers, collection managers and research administrators managing digital collections hosted on the ARDC's Nectar platform. 
 
 ## In this guide
 
