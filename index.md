@@ -25,7 +25,11 @@ A help guide to building, describing and publishing research collections with [O
 | [Data cleaning](docs/06-data-cleaning.md) | The difference between data cleaning and data cleansing, and a step-by-step process for cleaning a dataset before import |
 | [File Sideload](docs/07-file-sideload.md) | Adding files already on the server, to single items or in bulk with CSV Import |
 | [Controlled vocabularies and Value Suggest](docs/08-controlled-vocabularies.md) | Custom Vocab, Value Suggest, choosing vocabularies and adding terms to records |
-| [Linked open data](docs/09-linked-open-data.md) | URIs, authorities and simple steps to link your collection to the wider web |
+| [Linked open data](docs/10-indigenous.md) | Indigenous data governance |
+| [Linked open data](docs/11-identifiers.md) | Publishing a dataset with a persistent identifier |
+| [Linked open data](docs/12-ROCrate.md) | Using RO Crate |
+| [Linked open data](docs/13-.md) | URIs, authorities and simple steps to link your collection to the wider web |
+
 
 ## Downloads
 
