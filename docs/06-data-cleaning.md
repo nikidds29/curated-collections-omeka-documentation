@@ -151,6 +151,4 @@ Keep the log with your original and cleaned files. If you share or archive the d
 
 - [Guide to data cleaning](https://www.tableau.com/learn/articles/what-is-data-cleaning) (Tableau)
 - [Documenting and cleaning data](https://researchguides.uic.edu/dataplans/document) (University of Illinois Chicago Library)
-- [Data repositories](https://researchguides.uic.edu/dataplans/datarepositories) (University of Illinois Chicago Library)
 - [Data wrangling (cleaning)](https://www.jcu.edu.au/rdim/step-2-manage/data-analysis/data-wrangling-cleaning) (James Cook University)
-- White, E. P., et al. (2013). [Nine simple ways to make it easier to (re)use your data](https://doi.org/10.4033/iee.2013.6b.6.f). *Ideas in Ecology and Evolution*, 6(2).
