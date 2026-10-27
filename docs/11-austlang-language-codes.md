@@ -58,7 +58,7 @@ AustLang is a reference tool, not the final word on how a community names or ide
 
 The image below shows a spreadsheet prepared from the AustLang dataset, ready for import into Omeka-S.
 
-![Spreadsheet of AustLang data with columns for austlang_code, primary_name, lat, lon, schema:sameAs and licence](images/austlang/austlang-spreadsheet.png)
+![Spreadsheet of AustLang data with columns for austlang_code, primary_name, lat, lon, schema:sameAs and licence](images/austlang-spreadsheet.png)
 
 *AustLang data © AIATSIS, CC BY 4.0.*
 
@@ -101,13 +101,13 @@ With this option, each language group becomes an item in Omeka-S with its own me
 
 The **Metadata** tab shows the language group's details, including its AustLang code, licence and a `sameAs` link back to the AustLang page.
 
-![Omeka-S item page for Wuli Wuli showing class Language, identifier E89, licence AIATSIS CC BY 4.0, and a sameAs link to the AustLang page](images/austlang/austlang-item-metadata.png)
+![Omeka-S item page for Wuli Wuli showing class Language, identifier E89, licence AIATSIS CC BY 4.0, and a sameAs link to the AustLang page](images/austlang-item-metadata.png)
 
 *Language data © AIATSIS, CC BY 4.0. Owner details blurred.*
 
 The **Mapping** tab shows the approximate location of the language variety, using the coordinates from AustLang.
 
-![Omeka-S Mapping tab for Wuli Wuli showing a map marker in Calrossie State Forest, Queensland](images/austlang/austlang-item-mapping.png)
+![Omeka-S Mapping tab for Wuli Wuli showing a map marker in Calrossie State Forest, Queensland](images/austlang-item-mapping.png)
 
 *Location is approximate and does not represent the boundaries of Country. Owner details blurred.*
 
@@ -115,9 +115,9 @@ The **Mapping** tab shows the approximate location of the language variety, usin
 
 Once language groups are items, **other items can link to them**. For example, a person, artwork, recording, event or place can link to the language group it belongs to.
 
-In the example below, the person record for Harold Blair links to the **Wuli Wuli** language item in the *Austlang language group* field. Selecting the link opens the language group record with all its details. The same language item also appears under `isPartOf`, alongside the *Sounding Solidarity* item set.
+In the example below, the person links to the **Wuli Wuli** language item in the *Austlang language group* field. Selecting the link opens the language group record with all its details. The same language item also appears under `isPartOf'.
 
-![Omeka-S person item for Harold Blair with the Austlang language group field linking to the Wuli Wuli item, plus controlled vocabularies for name, artform and birthplace](images/austlang/person-item-linked.png)
+![Omeka-S person item with the Austlang language group field linking to the Wuli Wuli item, plus controlled vocabularies for name, artform and birthplace](images/austlang/person-item-linked.png)
 
 *Photographs and owner details blurred.*
 
