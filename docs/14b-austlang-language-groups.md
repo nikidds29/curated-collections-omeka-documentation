@@ -68,7 +68,7 @@ The AustLang vocabulary works like any other Custom Vocab (see [Controlled vocab
 5. **Select the language group.**
 6. **Click Save.**
 
-![Edit page for an item, with the Austlang group field's dropdown open. Wuli Wuli, E89 is selected, and the list shows other language groups such as A'ragu, Y75 and Aboriginal English, P4, each followed by its AustLang URI](images/austlang/austlang-vocab-dropdown.png)
+![Edit page for an item, with the Austlang group field's dropdown open. Akarre, C28 is selected, and the list shows other language groups, each followed by its AustLang URI](images/austlang/austlang-vocab-dropdown.png)
 
 *Language data © AIATSIS, CC BY 4.0.*
 
@@ -82,23 +82,23 @@ A few tips:
 
 ## How language groups display
 
-Each language group is saved with **two parts**: a label (for example *Wuli Wuli, E89*) and the AustLang URI. Omeka-S shows the label, and turns it into a link to the language's AustLang page on the AIATSIS website.
+Each language group is saved with **two parts**: a label (for example *Akarre, C28*) and the AustLang URI. Omeka-S shows the label, and turns it into a link to the language's AustLang page on the AIATSIS website.
 
 ### In the admin view
 
 On the item's page in the admin dashboard, the language group appears in the **Metadata** tab as a red link.
 
-![Admin view of a Person item on the Metadata tab. The Austlang group field shows Wuli Wuli, E89 as a link. Names and images on the item have been blurred](images/austlang/austlang-admin-item.png)
+![Admin view of a Person item on the Metadata tab. The Austlang group field shows Akarre, C28 as a link.](images/austlang/austlang-admin-item.png)
 
-*Names and images have been blurred. Language data © AIATSIS, CC BY 4.0.*
+*Language data © AIATSIS, CC BY 4.0.*
 
 ### On your public site
 
 On your public site, visitors see the same label as a link. Clicking it opens the language's page in AustLang, where they can find more about the language from AIATSIS, the trusted source.
 
-![Public site view of the same item. The Austlang group field shows Wuli Wuli, E89 as an underlined link. Names and images on the item have been blurred](images/austlang/austlang-public-item.png)
+![Public site view of the same item. The Austlang group field shows Akarre, C28 as an underlined link.](images/austlang/austlang-public-item.png)
 
-*Names and images have been blurred. Language data © AIATSIS, CC BY 4.0.*
+*Language data © AIATSIS, CC BY 4.0.*
 
 ### Why the link matters
 
